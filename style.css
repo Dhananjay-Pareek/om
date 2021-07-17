@@ -7,10 +7,10 @@ html {
 @media(prefers-color-scheme: dark){
   .body,html{
     /* background-color: #222f3e; */
-    background-image: url("gradientbg.png") !important;
+    background-image: url("./gradientbg.png") !important;
   }
   .top{
-    background-image: url("bg1.jpg") !important;
+    background-image: url("./bg1.jpg") !important;
     border: 0.01px solid rgb(85, 105, 116) !important;
   }
   .nav ul li a {
@@ -41,7 +41,7 @@ html {
   }
 }
 .top {
-  background-image: url("bg1-removebg.png");
+  background-image: url("./bg1-removebg.png");
   height: 113%;
   border: 0.01px solid white;
 
